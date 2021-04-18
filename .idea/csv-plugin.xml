@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\record_rx_signals.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\rx.py">
           <value>
             <Attribute>
